@@ -1,6 +1,6 @@
 # README
 
-#[1.0.0](https://github.com/quick-lab/AdV) (28-04-2022)
+#[1.0.0](https://github.com/quick-lab/HAdV) (28-04-2022)
 
-- A 2kb amplicon scheme for AdV subtype F41 using single ambiguity in primers
-- Overlap (_ol) and Jackhammer (_jh) strategies
+- 2kb amplicon schemes for HAdV subtypes A, B, C, D and F41 using single ambiguity in primers
+- Overlap (two pool) and Jackhammer (three pool) strategies for F41
