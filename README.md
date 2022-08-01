@@ -8,3 +8,4 @@
 #[1.1](https://github.com/quick-lab/HAdV) (19-07-2022)
 
 - 2kb Jackhammer schemes for HAdV subtypes A, B, C, D
+- 1kb Jackhammer schemes for F41 and F41-2b clade

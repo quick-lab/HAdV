@@ -1,0 +1,3 @@
+Found cached kmers for reference gi|1511893241|gb|MG925782.1|
+Found 53839 non-ambiguous kmers passing thermo filter
+All done! Scheme created with 95 amplicons, 99.83 % coverage, 0 gaps
